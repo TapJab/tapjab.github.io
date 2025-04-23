@@ -1,0 +1,35 @@
+/* Make sure html, body fill the viewport */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Background image (adjust path or use a URL) */
+body {
+  background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* A semi-transparent overlay for legibility */
+.overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  height: 100%;
+  padding: 0 20px;
+}
+
+.overlay h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.overlay p {
+  font-size: 1.25rem;
+}
