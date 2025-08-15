@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tapjab.TapPuzzleColouring",
+    "sha256_cert_fingerprints": [
+      "79:36:9E:B1:EC:3B:BB:2C:F8:55:9E:AA:3F:AE:45:0E:3B:54:9E:D5:C8:AC:A1:B9:25:78:5B:17:FE:4D:8F:C9"
+    ]
+  }
+}]
+
