@@ -1,0 +1,3 @@
+/app-ads.txt/   /app-ads.txt   301!
+https://www.tapjab.in/*   https://tapjab.in/:splat   301!
+/*   /index.html   200
