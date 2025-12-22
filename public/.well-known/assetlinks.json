@@ -1,4 +1,5 @@
-[{
+[
+  {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -6,6 +7,17 @@
     "sha256_cert_fingerprints": [
       "79:36:9E:B1:EC:3B:BB:2C:F8:55:9E:AA:3F:AE:45:0E:3B:54:9E:D5:C8:AC:A1:B9:25:78:5B:17:FE:4D:8F:C9"
     ]
+    }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.TapJab.CrossMaths",
+    "sha256_cert_fingerprints": [
+      "1A:0B:B9:D9:91:80:F0:D4:71:7B:A8:B4:B2:44:AA:CA:F8:0B:D2:00:50:33:D0:7D:EC:8E:8D:0E:B5:63:25:B5"
+    ]
+    }
   }
-}]
+]
 
